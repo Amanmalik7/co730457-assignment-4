@@ -31,6 +31,7 @@ namespace co730457_assignment_4
                 int number = 0;
 
 
+
                 while ((ln = file.ReadLine()) != null)
                     while ((line = file.ReadLine()) != null)
                     {
