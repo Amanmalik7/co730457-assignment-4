@@ -16,7 +16,7 @@ namespace co730457_assignment_4
             Program p = new Program();
             p.Beowulf = new ArrayList();
             p.ReadTextFiles();
-            Console.ReadLine();
+           
 
         }
         public void Run() { this.ReadTextFiles(); }
